@@ -15,7 +15,7 @@ This capstone project is a culmination of the skills and knowledge acquired thro
 
 **Dataset Acknowledgment:**
 
-We are grateful to Motivate Inc. for providing the dataset that serves as the foundation of this capstone project. Their contribution has enabled us to apply practical data analytics techniques to a real-world dataset, mirroring the challenges and opportunities present in the bike-sharing sector.
+We are grateful to Motivate Inc. for providing the dataset that serves as the foundation of this capstone project. Their contribution has enabled us to apply practical data analytics techniques to a real-world dataset, mirroring the challenges and opportunities present in the bike-sharing sector.Dataset can be download through this link https://www.kaggle.com/datasets/sinderpreet/datainsight-google-analytics-capstone-project/data
 
 **Objective:**
 
